@@ -128,7 +128,7 @@ p {
 .logo {
     display: block;
     margin: 0 76px 0 0;
-    color: #4d5ae5;
+    color: #404bbf;
 }
 
 .logo-studio {
@@ -161,7 +161,7 @@ p {
 
 .nav-item:hover::after,
 .nav-item:focus::after {
-    content: "";
+    content: '';
     position: absolute;
     width: 100%;
     left: 0;
