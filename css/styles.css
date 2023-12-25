@@ -155,6 +155,10 @@ p {
     color: #2E2f42;
 }
 
+.nav-item.active {
+    color: #404bbf
+}
+
 .nav-item:hover,
 .nav-item:focus {
     color: #404bbf;
